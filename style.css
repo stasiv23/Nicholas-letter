@@ -1,0 +1,17 @@
+body{
+    font-family: 'Kaushan Script', cursive;
+ text-shadow: 5px 5px 5px;   
+}
+p{
+    font-family: 'Kaushan Script', cursive;
+    font-weight: 600;
+    font-size: 20px;
+    text-shadow: 3px 3px 3px;
+}
+a{
+    text-decoration: none;
+}
+.посилання:hover{
+    color:green;
+
+}
